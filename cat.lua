@@ -2936,4 +2936,5 @@ end
  
  UICorner.CornerRadius = UDim.new(0.25, 0)
  UICorner.Name = "Looks like"
+
  UICorner.Parent = Frame 
